@@ -1,2 +1,2 @@
-# cusom_files
+# Custom
 The custom file which I use.
