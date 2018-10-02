@@ -4,7 +4,7 @@ These are the custom file which I use and will be updated monthly or when there 
 
 # Heads Up Display (H.U.D.)
 
-I use a custom hud slightly edited to remove the sniper scope because I find be a nuisance.
+I use a custom hud slightly edited to remove the sniper scope because I don't like it.
 
 Link: https://github.com/Hypnootize/PV-Hud
 
@@ -15,4 +15,4 @@ I also use radeon pro occasionally. I'm not 100% certain it even gives a framera
 
 # LodAdj Trick
 
-Turns out for AMD grahpic card you can setup a LodAdj file within your registry to constantly get the pixelaxted look.
+Turns out for AMD grahpic card you can setup a LodAdj file within your registry to constantly get a even more pixelaxted look.
