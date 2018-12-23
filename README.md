@@ -4,13 +4,13 @@ These are the custom file which I use and will be updated monthly or when there 
 
 # Heads Up Display (H.U.D.)
 
-I use a custom hud slightly edited to remove the sniper scope because I don't like it.
+I use a custom hud slightly edited to remove the sniper scope.
 
 Link: https://github.com/Hypnootize/PV-Hud
 
 # RadeonPro
 
-I also use radeon pro occasionally. I'm not 100% certain it even gives a framerate boost I just like the old pixelated look it brings.
+I also use radeon pro occasionally. It does not give a framerate boost but I like the old pixelated look it offers.
 
 
 # LodAdj Trick
